@@ -1,11 +1,12 @@
 ---
+permalink: /
 title: "About Me"
 excerpt: "About me"
-=======
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-
 author_profile: true
-
+redirect_from: 
+  - /about/
+  - /about.html
+---
    
 I am an assistant professor in the Department of Computer Science at [University of North Carolina Greensboro](https://compsci.uncg.edu/). I was a a postdoctoral research scientist in the Department of Biomedical Informatics at [Columbia University](https://www.columbia.edu/). I received my Ph.D. degree in Computer Science from [Case Western Reserve University](https://case.edu/). 
 
