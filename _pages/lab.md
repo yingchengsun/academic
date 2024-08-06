@@ -20,17 +20,17 @@ author_profile: true
       </div>
       </center>
     </div>
-    <div class="column" >
+    <div class="column" style="float:left;width:300">
       <center>
       <div class="author__avatar">
-            <img src="/academic/images/Harsha.jpeg" class="author__avatar" alt="Harsha Bangera">
+            <img src="/academic/images/Harsha.png" class="author__avatar" alt="Harsha Bangera">
       </div>
       <div class="author__content">
             <p><a href = "https://www.linkedin.com/in/harshaamin/">Harsha Bangera</a><br/>(2024 - )</p>
       </div>
       </center>
     </div>
-    <div class="column">
+    <div class="column" style="float:left;width:300">
       <center>
       <div class="author__avatar">
             <img src="/academic/images/Supriya.jpeg" class="author__avatar" alt="Supriya Kottam">
