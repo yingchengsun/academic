@@ -30,7 +30,7 @@ author_profile: true
       </div>
       </center>
     </div>
-    <div class="column" style="float:left;width:500">
+    <div class="column" style="width:500">
       <center>
       <div class="author__avatar">
             <img src="/academic/images/Supriya.jpeg" class="author__avatar" alt="Supriya Kottam">
