@@ -9,7 +9,7 @@ author_profile: true
 
 ## Current Lab Members
 
-<div class="row" style="float:left;width:2000" >
+<div class="row" style="width:2000" >
     <div class="column" style="float:left;width:500">
       <center>
       <div class="author__avatar">
