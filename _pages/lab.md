@@ -9,7 +9,7 @@ author_profile: true
 
 ## Current Lab Members
 
-<div class="row" style="float:left;width:1500" >
+<div class="row" style="float:left;width:2000" >
     <div class="column" style="float:left;width:500">
       <center>
       <div class="author__avatar">
@@ -30,7 +30,7 @@ author_profile: true
       </div>
       </center>
     </div>
-    <div class="column">
+    <div class="column" style=" width:500">
       <center>
       <div class="author__avatar">
             <img src="/academic/images/Supriya.jpeg" class="author__avatar" alt="Supriya Kottam">
