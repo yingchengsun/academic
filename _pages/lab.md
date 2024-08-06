@@ -20,7 +20,7 @@ author_profile: true
       </div>
       </center>
     </div>
-    <div class="column" style="float:left;width:300">
+    <div class="column" >
       <center>
       <div class="author__avatar">
             <img src="/academic/images/Harsha.jpeg" class="author__avatar" alt="Harsha Bangera">
