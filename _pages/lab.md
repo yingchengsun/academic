@@ -40,7 +40,6 @@ author_profile: true
       </div>
       </center>
     </div>
-
     <div class="column" style=" float:left;">
       <center>
       <div class="author__avatar">
