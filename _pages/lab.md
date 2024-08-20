@@ -20,7 +20,7 @@ author_profile: true
       </div>
       </center>
     </div>
-    <div class="column" style="float:left;">
+    <div class="column" style="float:left;padding-left: 10px;">
       <center>
       <div class="author__avatar">
             <img src="/academic/images/Harsha.png" class="author__avatar" alt="Harsha Bangera">
@@ -30,7 +30,7 @@ author_profile: true
       </div>
       </center>
     </div>
-    <div class="column" style=" float:left;">
+    <div class="column" style=" float:left;padding-left: 10px;">
       <center>
       <div class="author__avatar">
             <img src="/academic/images/Supriya.jpeg" class="author__avatar" alt="Supriya Kottam">
@@ -40,10 +40,10 @@ author_profile: true
       </div>
       </center>
     </div>
-    <div class="column" style=" float:left;">
+    <div class="column" style=" float:left;padding-left: 10px;">
       <center>
       <div class="author__avatar">
-            <img src="/academic/images/Sophia.JPG" class="author__avatar" alt="Soyeon Shin">
+            <img src="/academic/images/Sophia.png" class="author__avatar" alt="Soyeon Shin">
       </div>
       <div class="author__content">
             <p><a href = "">Supriya Kottam</a><br/>(2024 - )</p>
