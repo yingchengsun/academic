@@ -40,6 +40,19 @@ author_profile: true
       </div>
       </center>
     </div>
+
+    <div class="column" style=" float:left;">
+      <center>
+      <div class="author__avatar">
+            <img src="/academic/images/Sophia.JPG" class="author__avatar" alt="Soyeon Shin">
+      </div>
+      <div class="author__content">
+            <p><a href = "">Supriya Kottam</a><br/>(2024 - )</p>
+      </div>
+      </center>
+    </div>
+
+    
 </div>
 
 <br>
