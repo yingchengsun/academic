@@ -46,7 +46,7 @@ author_profile: true
             <img src="/academic/images/Sophia.png" class="author__avatar" alt="Soyeon Shin">
       </div>
       <div class="author__content">
-            <p><a href = "">Supriya Kottam</a><br/>(2024 - )</p>
+            <p><a href = "">Soyeon Shin</a><br/>(2024 - )</p>
       </div>
       </center>
     </div>
