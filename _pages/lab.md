@@ -52,6 +52,7 @@ author_profile: true
     </div>
 </div>
 
+<br>
 
 <div class="row"  >
     <div class="column" style="float:left;">
