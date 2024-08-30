@@ -50,9 +50,24 @@ author_profile: true
       </div>
       </center>
     </div>
+</div>
 
+
+<div class="row"  >
+    <div class="column" style="float:left;">
+      <center>
+      <div class="author__avatar">
+            <img src="/academic/images/Samantha.png" class="author__avatar" alt="Kevin Hayes">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://www.linkedin.com/in/samantha-schnell-274a15217/">Samantha Schnell</a><br/>(2024 - )</p>
+      </div>
+      </center>
+    </div>
+    
     
 </div>
+
 
 <br>
 <br>
