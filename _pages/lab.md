@@ -53,6 +53,15 @@ author_profile: true
 </div>
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <div class="row"  >
     <div class="column" style="float:left;">
