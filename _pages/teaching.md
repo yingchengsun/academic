@@ -23,3 +23,7 @@ author_profile: true
 
 + **Fall 2022**      
     CSC 410, Big Data and Machine Learning
+
+# Userful Resources     
+
+    -  [NLP Course For You](https://lena-voita.github.io/nlp_course.html)      
