@@ -4,7 +4,10 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---    
-
++ **Spring 2025**      
+    CSC 495/693, Natural Language Processing   
+    CSC 490, Senior Project
+  
 + **Fall 2024**      
     CSC 454/654, Algorithm Analysis and Design  
     CSC 490, Senior Project
