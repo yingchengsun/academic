@@ -97,3 +97,8 @@ author_profile: true
   + Manichandana Kuluri (2023-2024)
   + Sean Edwards (2022-2023, Provost Student Excellence Award)
 
+
+
+#  Userful Resources      
+
+-  [Conference Deadlines](https://github.com/paperswithcode/ai-deadlines)      
