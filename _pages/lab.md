@@ -40,7 +40,7 @@ author_profile: true
       </div>
       </center>
     </div>
-    <div class="column" style=" float:left;padding-left: 10px;">
+<!--     <div class="column" style=" float:left;padding-left: 10px;">
       <center>
       <div class="author__avatar">
             <img src="/academic/images/.png" class="author__avatar" alt=" ">
@@ -49,7 +49,7 @@ author_profile: true
             <p><a href = ""> </a><br/>(  - )</p>
       </div>
       </center>
-    </div>
+    </div> -->
 </div>
 
 <br>
