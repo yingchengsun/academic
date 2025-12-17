@@ -16,7 +16,7 @@ author_profile: true
             <img src="/academic/images/Supriya.jpeg" class="author__avatar" alt="Supriya Kottam">
       </div>
       <div class="author__content">
-            <p><a href = "https://www.linkedin.com/in/supriya-kottam/">Supriya Kottam</a><br/>(2024 - )</p>
+            <p><a href = "https://www.linkedin.com/in/supriya-kottam/">Supriya Kottam</a><br/>(PhD, 2025 - )</p>
       </div>
       </center>
     </div>
@@ -26,7 +26,7 @@ author_profile: true
             <img src="/academic/images/Anika.png" class="author__avatar" alt="Anika Sultana">
       </div>
       <div class="author__content">
-            <p><a href = "">Anika Sultana</a><br/>(2025 - )</p>
+            <p><a href = "">Anika Sultana</a><br/>(PhD, 2025 - )</p>
       </div>
       </center>
     </div>
@@ -36,7 +36,7 @@ author_profile: true
             <img src="/academic/images/Samantha.png" class="author__avatar" alt="Samantha Schnell">
       </div>
       <div class="author__content">
-            <p><a href = "https://www.linkedin.com/in/samantha-schnell-274a15217/">Samantha Schnell</a><br/>(2024 - )</p>
+            <p><a href = "https://www.linkedin.com/in/samantha-schnell-274a15217/">Samantha Schnell</a><br/>(MS, 2024 - )</p>
       </div>
       </center>
     </div>
