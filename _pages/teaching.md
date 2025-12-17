@@ -4,6 +4,10 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---    
++ **Fall 2026**      
+    CSC 410/610/709, Big Data and Machine Learning   
+    CSC 490, Senior Project
+
 + **Spring 2025**      
     CSC 446/646, Natural Language Processing   
     CSC 490, Senior Project

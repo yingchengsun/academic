@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+## SMART Lab 
+
+Sun’s Medical Assistive and Reliable Technologies (SMART) Lab focuses on developing trustworthy, transparent, and clinically meaningful AI systems that address important and challenging healthcare problems.
+
 ## Current Lab Members
 
 <div class="row"  >
