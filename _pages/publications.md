@@ -42,6 +42,13 @@ author_profile: true
 
 ## Conference Proceedings   
 
++ Kottam, S., Annem, S., **Sun, Y.** (2025, December). *Error-Aware Text-to-SQL Generation for Clinical Trial Eligibility Criteria Querying in EHR Databases*. In **2025 IEEE International Conference on Big Data (Big Data)** (pp. 3271–3280). IEEE.[pdf](https://yingchengsun.github.io/academic/files/SP02215.pdf)  
+
++ Astraikis, J., Martin, R., Es, A. V., Kottam, S., **Sun, Y.** (2025, December). *Benford-Constrained Multimodal Learning for Few-Shot Fake Image Detection*. In **2025 IEEE International Conference on Big Data (Big Data)** (pp. 3940–3947). IEEE.[pdf](https://yingchengsun.github.io/academic/files/SP09209.pdf)  
+
++ Hayes, K., **Sun, Y.** (2025, December). *Modality-Aware Multimodal Fusion for Sleep Event Classification*. In **2025 IEEE International Conference on Big Data (Big Data)** (pp. 4136–4141). IEEE.[pdf](https://yingchengsun.github.io/academic/files/SP10218.pdf)  
+
+
 + Idnay, B., Fang, Y., **Sun, Y.**, Liu, H., Chen, Z., Schnall R. and Weng, C., "Criteria2Query: Combining Machine Efficiency and Human Intelligence to Define More Accurate and Feasible Clinical Research Cohorts" **_International Conference on Artificial Intelligence in Medicine(AIME 2022)_**, 2022   
 + **Sun, Y.**, Tang, J., Butler, A., Liu, C., Fang, Y. and Weng, C., "Interactive Similarity-Based Search of Clinical Trials", 290, pp.309-313. In **_International Medical Informatics Conference 2021 (MEDINFO 2021)_**, 2021. [pdf](https://yingchengsun.github.io/academic/files/TrialMatcher.pdf)   
 
