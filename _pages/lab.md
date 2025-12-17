@@ -78,7 +78,7 @@ author_profile: true
     
 </div> -->
 
-
+<!-- 
 <br>
 <br>
 <br>
@@ -88,7 +88,7 @@ author_profile: true
 <br>
 <br>
 <br>
-<br>
+<br> -->
 
 ## Alumni
   + Kevin Hayes (2023-2025)
