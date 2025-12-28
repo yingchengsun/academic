@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-Sun’s Medical Assistive and Reliable Technologies (SMART) Lab focuses on developing trustworthy, transparent, and clinically meaningful AI systems that address important and challenging healthcare problems.
+# Sun’s Medical Assistive and Reliable Technologies (SMART) Lab focuses on developing trustworthy, transparent, and clinically meaningful AI systems that address important and challenging healthcare problems.
 
 ## Current Lab Members
 
@@ -95,16 +95,16 @@ Sun’s Medical Assistive and Reliable Technologies (SMART) Lab focuses on devel
 <br> -->
 
 ## Alumni
-  + **Ishaan Luthra (2025 Summer, High School Student, Draelos Scholars Program)** Project: PHYTHER: An Interactive AI-Powered Physical Therapy Assistant for Personalized Recovery Planning
-  + **Kevin Hayes (2023-2025, CS Master)** Thesis: Exploring Modular Multimodal Architectures for Sleep Event Classification
-  + **Supriya Kottam (2024-2025, CS Master)** Thesis: Error-Aware Text-to-SQL Generation for Clinical Trial Eligibility Criteria Querying in EHR Databases
-  + **Harsha Bangera (2024-2025, CS Master)** Thesis: LLM-Powered Summarization and Hierarchical Visualization of Medical Evidence Across Documents
-  + **Lakshmi Kameswari Koneru (2024-2025, CS Master)** Project: AI4Trials: Intelligent Chatbot for Personalized Clinical Trial Search
-  + **Maximilian Doerr (2023-2024, CS Master)** Project: EvidenceMap: A Visual Summarization Tool for PubMed Abstracts
-  + **Sony Annem (2023-2024, CS Master, UNCG Graudate Showcase 2nd prize Award)** 
-  + **Sumithra Hariguruprasad (2023-2024, Informatics and Analytics Master)** Project: Improving Biomedical Literature Retrieval
-  + **Manichandana Kuluri (2023-2024, CS Master)** Project: User-Centered Medical Evidence Synthesis
-  + **Sean Edwards (2022-2023, CS Undergraduate, Provost Student Excellence Award)**
+  + Ishaan Luthra (2025 Summer, High School Student, Draelos Scholars Program)
+  + Kevin Hayes (2023-2025, CS Master)
+  + Supriya Kottam (2024-2025, CS Master) 
+  + Harsha Bangera (2024-2025, CS Master) 
+  + Lakshmi Kameswari Koneru (2024-2025, CS Master) 
+  + Maximilian Doerr (2023-2024, CS Master) 
+  + Sony Annem (2023-2024, CS Master, UNCG Graudate Showcase 2nd prize Award) 
+  + Sumithra Hariguruprasad (2023-2024, Informatics and Analytics Master) 
+  + Manichandana Kuluri (2023-2024, CS Master) 
+  + Sean Edwards (2022-2023, CS Undergraduate, Provost Student Excellence Award)
 
 
 
