@@ -95,7 +95,7 @@ Sun’s Medical Assistive and Reliable Technologies (SMART) Lab focuses on devel
 <br> -->
 
 ## Alumni
-  + Ishaan Luthra (2025 Summer, High School Student, Draelos Scholars Program)
+  + Ishaan Luthra (2025 Summer, Northwest Guilford High School Student, Draelos Scholars Program)
   + Kevin Hayes (2023-2025, CS Master)
   + Supriya Kottam (2024-2025, CS Master) 
   + Harsha Bangera (2024-2025, CS Master) 
