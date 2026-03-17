@@ -50,7 +50,7 @@ Sun’s Medical Assistive and Reliable Technologies (SMART) Lab focuses on devel
             <img src="/academic/images/Titi.png" class="author__avatar" alt="Titilope Adeniyi">
       </div>
       <div class="author__content">
-            <p><a href = ""> </a><br/>(Undergraduate, 2025 - )</p>
+            <p><a href = ""> Titilope Adeniyi </a><br/>(Undergraduate, 2025 - )</p>
       </div>
       </center>
     </div>
