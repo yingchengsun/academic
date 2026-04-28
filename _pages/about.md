@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
    
-I am an assistant professor in the Department of Computer Science at [University of North Carolina Greensboro](https://compsci.uncg.edu/). I was a a postdoctoral research scientist in the Department of Biomedical Informatics at [Columbia University](https://www.columbia.edu/). I received my Ph.D. degree in Computer Science from [Case Western Reserve University](https://case.edu/). 
+I am an assistant professor in the Department of Computer Science at [University of North Carolina Greensboro](https://compsci.uncg.edu/). I was a a postdoctoral research scientist in the Department of Biomedical Informatics at [Columbia University](https://www.columbia.edu/). I received my Ph.D. degree in Computer Science from [Case Western Reserve University](https://case.edu/). My CV is [here](https://yingchengsun.github.io/academic/files/My_CV_full__20260428_.pdf).
 
 Research    
 ======
