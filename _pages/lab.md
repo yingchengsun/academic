@@ -120,4 +120,4 @@ Sun’s Medical Assistive and Reliable Technologies (SMART) Lab focuses on devel
 
 ##  Userful Resources      
 
--  [Conference Deadlines](https://github.com/paperswithcode/ai-deadlines)      
+-  [Conference Deadlines](http://aideadlines.org/?sub=ML,CV,NLP,RO,SP,DM,AP,KR,HCI,IRSM,MISC)      
