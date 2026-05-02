@@ -20,7 +20,7 @@ Sun’s Medical Assistive and Reliable Technologies (SMART) Lab focuses on devel
             <img src="/academic/images/Supriya.jpeg" class="author__avatar" alt="Supriya Kottam">
       </div>
       <div class="author__content">
-            <p><a href = "https://www.linkedin.com/in/supriya-kottam/">Supriya Kottam</a><br/>(PhD, 2025 - )</p>
+            <p><a href = "https://scholar.google.com/citations?user=itfWtaMAAAAJ&hl=en&oi=ao">Supriya Kottam</a><br/>(PhD, 2025 - )</p>
       </div>
       </center>
     </div>
@@ -30,7 +30,7 @@ Sun’s Medical Assistive and Reliable Technologies (SMART) Lab focuses on devel
             <img src="/academic/images/Anika.png" class="author__avatar" alt="Anika Sultana">
       </div>
       <div class="author__content">
-            <p><a href = "">Anika Sultana</a><br/>(PhD, 2025 - )</p>
+            <p><a href = "https://scholar.google.com/citations?hl=en&user=qIgday4AAAAJ">Anika Sultana</a><br/>(PhD, 2025 - )</p>
       </div>
       </center>
     </div>
@@ -51,6 +51,16 @@ Sun’s Medical Assistive and Reliable Technologies (SMART) Lab focuses on devel
       </div>
       <div class="author__content">
             <p><a href = ""> Titilope Adeniyi </a><br/>(Undergraduate, 2025 - )</p>
+      </div>
+      </center>
+    </div>
+      <div class="column" style=" float:left;padding-left: 10px;">
+      <center>
+      <div class="author__avatar">
+            <img src="/academic/images/Gloria.jpg" class="author__avatar" alt="Gloria Sukidi">
+      </div>
+      <div class="author__content">
+            <p><a href = ""> Gloria Sukidi </a><br/>(Undergraduate, 2026 - )</p>
       </div>
       </center>
     </div>
